@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mason O'mare 👋</h1>
-<h3 align="center">Senior AI/ML Engineer · LLMs, RAG & Agentic AI · Python Backend & Multi-Cloud MLOps</h3>
+<h3 align="center">Senior Software Engineer · LLMs, RAG & Agentic AI · MERN & Python Backend & Multi-Cloud MLOps</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-7%2B%20Years-blue?style=flat-square" />
@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-Senior AI/ML Engineer with **7+ years** of experience architecting and shipping distributed AI systems. I specialize in translating complex AI research into high-performance, production-grade products — combining LLMs, Retrieval-Augmented Generation (RAG), and multi-agent architectures with **robust Python backends and multi-cloud MLOps infrastructure**.
+Senior Software Engineer with **7+ years** of experience architecting and shipping distributed AI systems. I specialize in translating complex AI research into high-performance, production-grade products — combining LLMs, Retrieval-Augmented Generation (RAG), and multi-agent architectures with **robust Python backends and multi-cloud MLOps infrastructure**.
 
 Beyond model development, I bring deep, hands-on experience across the **full stack of data and DevOps engineering** — building CI/CD pipelines, containerized deployments, and production data/ML pipelines across **AWS, GCP, and Azure**. My work spans **Healthcare, FinTech, SaaS, and Real-Time Systems**, where I've automated enterprise workflows, optimized runtime performance, and turned research prototypes into systems operating reliably at scale.
 
