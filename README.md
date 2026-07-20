@@ -1,24 +1,65 @@
 <h1 align="center">Hi, I'm Mason O'mare 👋</h1>
-<h3 align="center">Senior AI/ML Engineer · LLMs, RAG & Agentic AI</h3>
+<h3 align="center">Senior AI/ML Engineer · LLMs, RAG & Agentic AI · Python Backend & Multi-Cloud MLOps</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-7%2B%20Years-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-LLMs%20%7C%20RAG%20%7C%20Agentic%20AI-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domains-Healthcare%20%7C%20FinTech%20%7C%20SaaS-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infra-AWS%20%7C%20GCP%20%7C%20Azure-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domains-Healthcare%20%7C%20FinTech%20%7C%20SaaS-orange?style=flat-square" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-Senior AI/ML Engineer with **7+ years** of experience architecting and shipping distributed AI systems. I specialize in translating complex AI research into high-performance, production-grade products — combining LLMs, Retrieval-Augmented Generation (RAG), and multi-agent architectures with cloud-native infrastructure.
+Senior AI/ML Engineer with **7+ years** of experience architecting and shipping distributed AI systems. I specialize in translating complex AI research into high-performance, production-grade products — combining LLMs, Retrieval-Augmented Generation (RAG), and multi-agent architectures with **robust Python backends and multi-cloud MLOps infrastructure**.
 
-My work spans **Healthcare, FinTech, SaaS, and Real-Time Systems**, where I've built scalable ML pipelines that automate enterprise workflows, optimize runtime performance, and turn research prototypes into systems operating at production scale.
+Beyond model development, I bring deep, hands-on experience across the **full stack of data and DevOps engineering** — building CI/CD pipelines, containerized deployments, and production data/ML pipelines across **AWS, GCP, and Azure**. My work spans **Healthcare, FinTech, SaaS, and Real-Time Systems**, where I've automated enterprise workflows, optimized runtime performance, and turned research prototypes into systems operating reliably at scale.
 
 - 🔭 Currently building agentic, multimodal AI systems for high-stakes, compliance-sensitive workflows
 - 🧩 Deep expertise in RAG pipelines, vector search, and fine-tuning/quantization for efficient LLM deployment
+- ☁️ Multi-cloud MLOps: designing and operating data and ML pipelines across AWS, GCP, and Azure
+- ⚙️ Strong Python backend & DevOps foundation — APIs, containerization, orchestration, CI/CD
 - ⚡ Focused on latency optimization, distributed inference, and scalable ML infrastructure
 - 🤝 Open to consulting, collaboration, and senior/staff-level opportunities
+
+---
+
+### 📊 Skill Proficiency
+
+**AI / ML Engineering**
+
+| Skill | Proficiency |
+|---|---|
+| LLMs & RAG Architecture | ![](https://progress-bar.xyz/95?title=&width=250&color=6366f1) |
+| LangChain / LangGraph / LlamaIndex | ![](https://progress-bar.xyz/92?title=&width=250&color=6366f1) |
+| Agentic & Multi-Agent Systems | ![](https://progress-bar.xyz/93?title=&width=250&color=6366f1) |
+| PyTorch / TensorFlow | ![](https://progress-bar.xyz/88?title=&width=250&color=6366f1) |
+| Fine-tuning (LoRA / QLoRA) & Quantization | ![](https://progress-bar.xyz/85?title=&width=250&color=6366f1) |
+| Vector Databases (Pinecone, Milvus) | ![](https://progress-bar.xyz/88?title=&width=250&color=6366f1) |
+| LLM Evaluation (RAGAS, DeepEval) | ![](https://progress-bar.xyz/85?title=&width=250&color=6366f1) |
+
+**Python & Backend Engineering**
+
+| Skill | Proficiency |
+|---|---|
+| Python (Advanced) | ![](https://progress-bar.xyz/96?title=&width=250&color=10b981) |
+| FastAPI / Flask | ![](https://progress-bar.xyz/92?title=&width=250&color=10b981) |
+| REST APIs & gRPC | ![](https://progress-bar.xyz/90?title=&width=250&color=10b981) |
+| Performance & Latency Optimization | ![](https://progress-bar.xyz/90?title=&width=250&color=10b981) |
+| Unit Testing & Code Quality | ![](https://progress-bar.xyz/88?title=&width=250&color=10b981) |
+
+**Cloud, DevOps & MLOps**
+
+| Skill | Proficiency |
+|---|---|
+| AWS (SageMaker & Core Services) | ![](https://progress-bar.xyz/90?title=&width=250&color=f59e0b) |
+| Google Cloud Platform (Vertex AI) | ![](https://progress-bar.xyz/87?title=&width=250&color=f59e0b) |
+| Microsoft Azure | ![](https://progress-bar.xyz/83?title=&width=250&color=f59e0b) |
+| Docker & Kubernetes | ![](https://progress-bar.xyz/90?title=&width=250&color=f59e0b) |
+| CI/CD (GitHub Actions) | ![](https://progress-bar.xyz/88?title=&width=250&color=f59e0b) |
+| MLflow / Weights & Biases | ![](https://progress-bar.xyz/85?title=&width=250&color=f59e0b) |
+| Data & ML Pipeline Engineering | ![](https://progress-bar.xyz/90?title=&width=250&color=f59e0b) |
 
 ---
 
@@ -32,30 +73,34 @@ My work spans **Healthcare, FinTech, SaaS, and Real-Time Systems**, where I've b
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
 
-`LLMs` · `Retrieval-Augmented Generation (RAG)` · `Agentic Workflows` · `Multi-Agent Systems` · `Fine-tuning (LoRA / QLoRA)` · `Model Quantization` · `vLLM` · `LLM Evaluation (RAGAS, DeepEval)`
-
-**Vector Databases**
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
-![Milvus](https://img.shields.io/badge/-Milvus-00A1EA?style=flat-square)
-
-**MLOps & Experiment Tracking**
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-`SageMaker` · `Vertex AI` · `CI/CD` · `GitHub Actions`
+`LLMs` · `RAG` · `Agentic Workflows` · `Multi-Agent Systems` · `LoRA / QLoRA` · `Model Quantization` · `vLLM` · `RAGAS` · `DeepEval`
 
 **Backend & APIs**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-`REST APIs` · `gRPC` · `Performance Tuning` · `Latency Optimization` · `Unit Testing` · `Git`
+`REST APIs` · `gRPC` · `Microservices` · `Performance Tuning` · `Latency Optimization` · `Unit Testing`
+
+**Cloud Platforms**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+`SageMaker` · `Vertex AI` · `Azure ML` · `Multi-Cloud Data Pipelines` · `Multi-Cloud MLOps`
+
+**DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+`CI/CD` · `Infrastructure as Code` · `Containerized Deployments` · `Pipeline Orchestration`
+
+**Data & MLOps Tooling**
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+
+`Pinecone` · `Milvus` · `Model Registry & Versioning` · `Experiment Tracking` · `Automated Retraining Pipelines`
 
 ---
 
@@ -94,4 +139,4 @@ Real-time generative AI agent using few-shot learning and multimodal LLMs to pre
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Building the systems that turn AI research into production-grade impact.</i></p>
+<p align="center"><i>Building the systems that turn AI research into production-grade impact — end to end, cloud to model.</i></p>
