@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-Senior Software Engineer with **7+ years** of experience architecting and shipping distributed AI systems. I specialize in translating complex AI research into high-performance, production-grade products — combining LLMs, Retrieval-Augmented Generation (RAG), and multi-agent architectures with **robust Python backends and multi-cloud MLOps infrastructure**.
+Senior Software Engineer with **8+ years** of experience architecting and shipping distributed AI systems. I specialize in translating complex AI research into high-performance, production-grade products — combining LLMs, Retrieval-Augmented Generation (RAG), and multi-agent architectures with **robust Python backends and multi-cloud MLOps infrastructure**.
 
 Beyond model development, I bring deep, hands-on experience across the **full stack of data and DevOps engineering** — building CI/CD pipelines, containerized deployments, and production data/ML pipelines across **AWS, GCP, and Azure**. My work spans **Healthcare, FinTech, SaaS, and Real-Time Systems**, where I've automated enterprise workflows, optimized runtime performance, and turned research prototypes into systems operating reliably at scale.
 
